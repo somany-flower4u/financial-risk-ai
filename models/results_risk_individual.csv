@@ -1,0 +1,6 @@
+Model,Val_Acc,Val_F1_macro,Test_Acc,Test_F1_macro
+GradientBoosting,0.991,0.9925,1.0,1.0
+RandomForest,0.982,0.985,0.9911,0.9874
+LightGBM,0.982,0.9812,1.0,1.0
+XGBoost,0.973,0.9735,1.0,1.0
+LogisticRegression,0.8198,0.8156,0.9018,0.8941
